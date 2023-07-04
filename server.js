@@ -36,10 +36,10 @@ const multerStorage = multer.diskStorage({
 
 // MySQL connection 
 const Options = {                
-    host: "localhost",
-    user: "root",
-    password: "root",
-    database: "plantopedia"
+    host: "bdxjumyt2ub7uti1jpkx-mysql.services.clever-cloud.com",
+    user: "uiplw2xdqyf6l8he",
+    password: "iLfJctdLIQL66eDvCkjO",
+    database: "bdxjumyt2ub7uti1jpkx"
 };
 
 //console.log(uuid());
